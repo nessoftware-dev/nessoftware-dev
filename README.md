@@ -12,7 +12,7 @@ We build and support cross-platform Flutter applications, with a focus on reusab
 - [`dialog_utils`](https://github.com/nessoftware-dev/dialog_utils) — reusable dialogs for common application workflows
 - [`chopper_utils`](https://github.com/nessoftware-dev/chopper_utils) — shared infrastructure for Chopper and OpenAPI clients
 - [`movie_utils`](https://github.com/nessoftware-dev/movieg_utils) — ready-to-use Flutter video player
-- 
+
 ## AI-assisted development
 
 We explore practical ways to use AI coding tools while keeping existing architecture, project conventions, and code behavior in view. Our Flutter development rules emphasize checking the actual implementation, reusing existing functionality, and avoiding changes based on unverified assumptions.
