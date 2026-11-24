@@ -19,7 +19,7 @@ We explore practical ways to use AI coding tools while keeping existing architec
 
 ## More
 
-- [NESSoftware](https://www.nessoftware.de)
+- [NESSoftware](https://www.nessoftware.com)
 - [Official package repository for Dart and Flutter apps](https://pub.dev/publishers/nessoftware.com/packages)
 - [Flutter development and packages](https://nessoftware.de/Flutter/index.html)
 - [AI-assisted development](https://nessoftware.de/AI/index.html)
